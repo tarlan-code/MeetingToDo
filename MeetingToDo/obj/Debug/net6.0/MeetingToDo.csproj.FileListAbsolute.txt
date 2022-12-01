@@ -1,0 +1,15 @@
+D:\Code Academy\Fullstack backend\Meeting\MeetingToDo\MeetingToDo\bin\Debug\net6.0\MeetingToDo.exe
+D:\Code Academy\Fullstack backend\Meeting\MeetingToDo\MeetingToDo\bin\Debug\net6.0\MeetingToDo.deps.json
+D:\Code Academy\Fullstack backend\Meeting\MeetingToDo\MeetingToDo\bin\Debug\net6.0\MeetingToDo.runtimeconfig.json
+D:\Code Academy\Fullstack backend\Meeting\MeetingToDo\MeetingToDo\bin\Debug\net6.0\MeetingToDo.dll
+D:\Code Academy\Fullstack backend\Meeting\MeetingToDo\MeetingToDo\bin\Debug\net6.0\MeetingToDo.pdb
+D:\Code Academy\Fullstack backend\Meeting\MeetingToDo\MeetingToDo\obj\Debug\net6.0\MeetingToDo.csproj.AssemblyReference.cache
+D:\Code Academy\Fullstack backend\Meeting\MeetingToDo\MeetingToDo\obj\Debug\net6.0\MeetingToDo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code Academy\Fullstack backend\Meeting\MeetingToDo\MeetingToDo\obj\Debug\net6.0\MeetingToDo.AssemblyInfoInputs.cache
+D:\Code Academy\Fullstack backend\Meeting\MeetingToDo\MeetingToDo\obj\Debug\net6.0\MeetingToDo.AssemblyInfo.cs
+D:\Code Academy\Fullstack backend\Meeting\MeetingToDo\MeetingToDo\obj\Debug\net6.0\MeetingToDo.csproj.CoreCompileInputs.cache
+D:\Code Academy\Fullstack backend\Meeting\MeetingToDo\MeetingToDo\obj\Debug\net6.0\MeetingToDo.dll
+D:\Code Academy\Fullstack backend\Meeting\MeetingToDo\MeetingToDo\obj\Debug\net6.0\refint\MeetingToDo.dll
+D:\Code Academy\Fullstack backend\Meeting\MeetingToDo\MeetingToDo\obj\Debug\net6.0\MeetingToDo.pdb
+D:\Code Academy\Fullstack backend\Meeting\MeetingToDo\MeetingToDo\obj\Debug\net6.0\MeetingToDo.genruntimeconfig.cache
+D:\Code Academy\Fullstack backend\Meeting\MeetingToDo\MeetingToDo\obj\Debug\net6.0\ref\MeetingToDo.dll
